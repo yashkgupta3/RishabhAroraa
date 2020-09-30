@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<br/ >
+<img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact">
+
+<br />
+[![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a top secret useless project
@@ -13,14 +20,11 @@ Here are some ideas to get you started:
 
 <img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="430" align='left'>
 
-
+<br />
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/">
-  <img align="left" alt="Rishabhs's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Rishabhs's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
-<br/>
+
+
+<br/ >
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true">
-<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact">
-
-[![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
