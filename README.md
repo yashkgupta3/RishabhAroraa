@@ -1,3 +1,5 @@
+<div style="background-color:0000ff">
+
 <img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true&theme=blue-green">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact&theme=blue-green">
 
@@ -18,3 +20,5 @@
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/"><img alt="Rishabhs's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <img src=https://komarev.com/ghpvc/?username=rishabharoraa /> 
 </p>
+
+</div>
