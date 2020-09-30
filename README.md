@@ -13,10 +13,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact&theme=synthwave">
 
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/UUqMUzd)
+<img src=https://komarev.com/ghpvc/?username=rishabharoraa /> 
 
 <p>
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/"><img alt="Rishabhs's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
-<img src=https://komarev.com/ghpvc/?username=rishabharoraa /> 
 </p>
 
 - 🔭 I’m currently working on a top secret useless project
