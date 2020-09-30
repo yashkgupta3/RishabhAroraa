@@ -12,7 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love video games :D
 
+<br/>
 <img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="430" align='left'>
+<br/>
 
 <br/>
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/">
