@@ -15,7 +15,10 @@
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/UUqMUzd)
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/"><img alt="Rishabhs's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/></a>
 <a href="www.steamcommunity.com/id/arora1337"><img src = "https://www.flaticon.com/svg/static/icons/svg/3/3782.svg" width="22px" alt = "Rishabh's Steam Account">
+  
+<p>
 <img src=https://komarev.com/ghpvc/?username=rishabharoraa /> 
+</p>
 
 
 - 🔭 I’m currently working on a top secret useless project
