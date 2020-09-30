@@ -21,4 +21,4 @@
 
 
 <br/>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username="RishabhAroraa"/> </p> 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=rishabharoraa alt=Kastrahl/> </p> 
