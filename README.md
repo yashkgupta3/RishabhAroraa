@@ -14,12 +14,14 @@
 
 <br/>
 <p><img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="500" align='left'><p>
-<br/>
 
 <br/>
+
+<p>
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/">
 <img alt="Rishabhs's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
+</p>
 
 
 <br/>
