@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 <br/>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=RishabhAroraa/> </p> 
+<p align="center"> <img src=https://komarev.com/ghpvc/?username="RishabhAroraa"/> </p> 
