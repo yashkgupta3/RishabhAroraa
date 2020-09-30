@@ -1,10 +1,10 @@
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rishabharoraa/maths-visualized">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=maths-visualized&theme=synthwave" />
 </a>
   &nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/technojam/Ultimate_Algorithms_Repository">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=Ultimate_Algorithms_Repository&theme=synthwave" />
 </a>
 </p>
