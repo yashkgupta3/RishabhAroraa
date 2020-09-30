@@ -18,3 +18,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Rishabhs's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
 <br/>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=kastrahl alt=Kastrahl/> </p> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true">
+<IMG SRC="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact">
+
+[![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
