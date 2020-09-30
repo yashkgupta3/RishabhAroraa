@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love video games :D
 
-<p align='center'><img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="500"><p>
+<p align='left'><img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="500"><p>
 
 <br/>
 
