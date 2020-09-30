@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love video games :D
 
-<img src="https://tenor.com/view/bullets-gun-and-bullets-reload-gif-12320147" width="430" align='left'>
+<img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="430" align='left'>
 
 
 <a href="https://www.linkedin.com/in/rishabh-arora-b78333156/">
