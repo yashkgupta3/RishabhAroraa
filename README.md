@@ -5,7 +5,7 @@
 </a>
   &nbsp;&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=slick-tac-toe&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=Ultimate_Algorithms_Repository&theme=synthwave" />
 </a>
 </p>
 
