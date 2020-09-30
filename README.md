@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact">
 
 [![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a top secret useless project
 - 🌱 I’m currently learning **Topology**
