@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=maths-visualized" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabharoraa&repo=slick-tac-toe" />
+</a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=RishabhAroraa&show_icons=true&?count_private=true&theme=synthwave">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact&theme=synthwave">
 
