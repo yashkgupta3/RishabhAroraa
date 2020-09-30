@@ -5,7 +5,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhAroraa&layout=compact">
 
 <br/> 
-[![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dhMXznV)]
+[![Discord](https://img.shields.io/discord/326031927016554506.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]
+<!--(https://discord.gg/dhMXznV) -->
 
 Here are some ideas to get you started:
 
