@@ -17,11 +17,11 @@
 - 🔭 I’m currently working on a top secret useless project
 - 🌱 I’m currently learning **Topology**
 - 👯 I’m looking to collaborate on mathematical research **(complex analysis, imaging/simulation)**
-- 🤔 I’m looking for help with competitive programing
-- 💬 Ask me about my one taps
+- 🤔 I’m looking for help with point set topology projects
+- 💬 Ask me about my cooking skills ;)
 - 📫 How to reach me: Discord **arora#0732**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love video games :D
+- ⚡ Fun fact: I love video games :D
 
 <p align='left'><img src="https://media1.tenor.com/images/ece61b024a100cb667a7ac0b99d7c11d/tenor.gif?itemid=12320147" width="640"><p>
 
